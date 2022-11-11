@@ -1,4 +1,4 @@
-/* Q) Palindrome with anonymous block using plsql
+/* Q) GCD of two numbers with anonymous block using plsql
 */
 
 create or replace function lcm(num1 in number, num2 in number) return number is
