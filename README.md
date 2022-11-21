@@ -13,3 +13,13 @@
      Error Management: PL/SQL’s implementation of arrays plays a role in almost every key performance feature of PL/SQL
     Working with Collections: Use several key data dictionary views to analyze and manage your code
 
+
+![images](https://user-images.githubusercontent.com/15075906/203089947-7628e5f0-8d5a-4d54-8885-b9f08935c73f.png)
+
+
+![images](https://user-images.githubusercontent.com/15075906/203089994-cfe3d8ea-b821-4495-80f0-658578cded39.jpg)
+
+![images](https://user-images.githubusercontent.com/15075906/203090026-6dd6402c-e834-4ccd-b5e8-fd4bbd35544e.png)
+
+
+![images](https://user-images.githubusercontent.com/15075906/203090138-287834d9-20d1-4bd8-9b59-b7ef5b7fdcf6.png)
